@@ -2,11 +2,11 @@ from . import __version__ as app_version
 
 app_name = "skyway"
 app_title = "Skyway"
-app_publisher = "erpcloud.systems"
+app_publisher = "connect 4systems"
 app_description = "customizations"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
-app_email = "info@erpcloud.systems"
+app_email = "info@connect4systems.com"
 app_license = "MIT"
 
 
